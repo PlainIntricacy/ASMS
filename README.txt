@@ -54,7 +54,7 @@ The following steps will ensure the proper setup for ASMS:
 4) Download and install CCleaner using default settings from https://www.piriform.com/ccleaner/download - make sure the install folder is "C:\Program Files\CCleaner\" (without quotes)
 5) Download and install Malwarebytes AntiMalware using default settings from https://www.malwarebytes.org/mwb-download/ - make sure the install folder is "C:\Program Files\Malwarebytes Anti-Malware\" (without quotes)
 6) Download and install GeForce Experience using default settings from http://www.geforce.com/geforce-experience - make sure the install folder is "C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\" (without quotes)
-7) Download and extract the ASMS archive from <github link here>
+7) Download and extract the ASMS archive from https://github.com/PlainIntricacy/ASMS
 8) Open ASMS.bat and run the script to completion
 9) You can now access all your maintenance software via the ASMS.bat file
 10) You can schedule regular system maintenance with ASMS by using it with Windows Task Scheduler
