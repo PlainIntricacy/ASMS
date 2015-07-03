@@ -59,5 +59,7 @@ The following steps will ensure the proper setup for ASMS:
 9) You can now access all your maintenance software via the ASMS.bat file
 10) You can schedule regular system maintenance with ASMS by using it with Windows Task Scheduler
 
+If you have issues opening the ASMS.bat file (UAC, admin privileges), run the file as an administrator (right click on ASMS.bat and select "Run as administrator")
+
 To uninstall ASMS, simply delete the ASMS folder from your computer.
 For a complete removal, also uninstall Ninite, CCleaner, Malwarebytes AntiMalware and GeForce Experience.
