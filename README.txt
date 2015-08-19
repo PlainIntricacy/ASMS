@@ -1,4 +1,4 @@
-AUTOMATED SYSTEM MAINTENANCE SCRIPT (ASMS) V1.0
+AUTOMATED SYSTEM MAINTENANCE SCRIPT (ASMS) V1.0a
 by Tudor Laptes
 https://github.com/PlainIntricacy
 
@@ -14,7 +14,7 @@ README
 
 1 - ABOUT
 
-Welcome to the System Maintenance Script v1.0
+Welcome to the System Maintenance Script v1.0a
 
 This is a .bat file I wrote to automate the process of running multiple cleaning and software update programs, as part of the regular maintenance of a Windows PC.
 
@@ -28,7 +28,7 @@ REQUIRED SOFTWARE:
 - Ninite
 - CCleaner
 - Malwarebytes AntiMalware
-- GeForce Experience & Video Drivers (and compatible GPU card)
+- AMD Video Drivers (and compatible GPU card)
 
 All links and information on how to prepare the software for this file are provided in the INSTALL/UNINSTALL section below
 
@@ -53,11 +53,13 @@ The following steps will ensure the proper setup for ASMS:
 3) Move Ninite.exe to "C:\Program Files\Ninite\" (without quotes) - create a new folder named Ninite in Program Files if one does not already exist
 4) Download and install CCleaner using default settings from https://www.piriform.com/ccleaner/download - make sure the install folder is "C:\Program Files\CCleaner\" (without quotes)
 5) Download and install Malwarebytes AntiMalware using default settings from https://www.malwarebytes.org/mwb-download/ - make sure the install folder is "C:\Program Files\Malwarebytes Anti-Malware\" (without quotes)
-6) Download and install GeForce Experience using default settings from http://www.geforce.com/geforce-experience - make sure the install folder is "C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\" (without quotes)
-7) Download and extract the ASMS archive from <github link here>
+6) Download and install AMD Drivers using default settings from http://support.amd.com/en-us/download - make sure the install folder is "C:\Program Files\AMD" (without quotes)
+7) Download and extract the ASMS archive from https://github.com/PlainIntricacy/ASMS
 8) Open ASMS.bat and run the script to completion
 9) You can now access all your maintenance software via the ASMS.bat file
 10) You can schedule regular system maintenance with ASMS by using it with Windows Task Scheduler
 
+If you have issues opening the ASMS.bat file (UAC, admin privileges), run the file as an administrator (right click on ASMS.bat and select "Run as administrator")
+
 To uninstall ASMS, simply delete the ASMS folder from your computer.
-For a complete removal, also uninstall Ninite, CCleaner, Malwarebytes AntiMalware and GeForce Experience.
+For a complete removal, also uninstall Ninite, CCleaner, Malwarebytes AntiMalware and AMD Drivers.
