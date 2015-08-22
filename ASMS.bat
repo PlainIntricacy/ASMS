@@ -82,7 +82,7 @@ ECHO WAITING FOR STEP 2 TO COMPLETE..
 
 ECHO.
 
-START /W "" "C:\Program Files\CCleaner\CCleaner64.exe"
+START /W "" "C:\Program Files\CCleaner\CCleaner64.exe" /AUTO
 
 ECHO.
 
